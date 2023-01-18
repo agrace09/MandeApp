@@ -1,0 +1,18 @@
+body {
+    background-color: #373737;
+    height: 550px;
+    align-items: center;
+}
+
+nav {
+  text-align: center;
+}
+
+
+
+
+span.navbar-brand {
+    color: #ffa500;
+    text-align: center;
+    width: 100%;
+}
